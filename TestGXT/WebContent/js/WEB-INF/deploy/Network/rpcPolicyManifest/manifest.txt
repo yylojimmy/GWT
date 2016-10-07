@@ -1,0 +1,3 @@
+# Module Network
+# RPC service class, partial path of RPC policy file
+com.yxtar.testgxt.client.GreetingService, 752AD36E676FFA199FFEBFD335DDEA71.gwt.rpc

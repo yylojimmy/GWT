@@ -1,0 +1,2 @@
+serviceClass: com.yxtar.testgxt.client.GreetingService
+path: 752AD36E676FFA199FFEBFD335DDEA71.gwt.rpc
